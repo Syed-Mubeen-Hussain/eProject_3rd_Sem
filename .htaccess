@@ -1,0 +1,2 @@
+#ErrorDocument 404 "Page not found"
+ErrorDocument 404 /eProject/404.php
